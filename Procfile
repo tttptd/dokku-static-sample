@@ -1,2 +1,0 @@
-web: public/index.html
-
